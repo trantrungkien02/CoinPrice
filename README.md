@@ -19,8 +19,4 @@ This project is designed to:
 
 ## 📂 Project Structure
 
-├── price-btc-eth.ipynb # Main notebook file
-├── dataset/
-│ ├── BTC.csv # Bitcoin price data
-│ └── ETH.csv # Ethereum price data
-└── README.md # Project description
+![image](https://github.com/user-attachments/assets/f7428cd6-a1aa-441e-b286-41ef12070b6f)
